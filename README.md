@@ -27,7 +27,7 @@
    `
    pip install pickle4
    `<br><br>
-   **Output : **<br>
+   **Output :**<br>
    
    ![Alt text](/stockPrediction.JPG?raw=true "Output")
    
