@@ -35,8 +35,9 @@ df['label'] = df[forecast_col].shift(-forecast_out)
 
 x = np.array(df.drop(['label'], 1))
 x = preprocessing.scale(x)
-x = x[:-forecast_out]
 x_lately = x[-forecast_out:]
+x = x[:-forecast_out]
+
 
 
 #x = x[:-forecast_out+1]
