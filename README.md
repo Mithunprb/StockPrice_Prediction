@@ -4,11 +4,21 @@
 
 **For** [regressionml.py](./regressionml.py)
   * Python3.x or greater
-  * Install numpy
+  * Using pip
+  * Install numpy <br>
     `
     pip install numpy
     `
-  * Install matplotlib
+  * Install matplotlib <br>
   `
   pip install matplotlib
   `
+  * Install pandas <br>
+   `
+   pip install pandas
+   `
+   * Install scikit learn<br>
+   `
+   pip install -U scikit-learn
+   `
+   
