@@ -21,4 +21,11 @@
    `
    pip install -U scikit-learn
    `
+   * Install pickle
+   There is no need to install pickle as it's already within Python 3.9. Just needed to import pickle. <br>
+   For others : <br>
+   `
+   pip install pickle4
+   `
+   
    
