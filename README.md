@@ -1,5 +1,6 @@
 # StockPrice_Prediction
-### Machine learning on linear data to find best fit line
+### Machine learning 
+
 ## Reuirements
 
 **For** [regressionml.py](./regressionml.py)
