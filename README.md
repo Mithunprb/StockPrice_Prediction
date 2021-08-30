@@ -31,4 +31,4 @@
    **Output :**<br>
    
    
-   
+   ![Alt text](./mean_shift.png?raw=true "Output")
