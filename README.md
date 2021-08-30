@@ -1,4 +1,4 @@
-# Mean Shiftinh
+# Mean Shifting
 ### Machine learning 
 
 ## Reuirements
