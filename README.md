@@ -1,4 +1,4 @@
-# StockPrice_Prediction
+# Mean Shiftinh
 ### Machine learning 
 
 ## Reuirements
@@ -30,5 +30,5 @@
      `<br><br>
    **Output :**<br>
    
-   ![Alt text](/stockPrediction.JPG?raw=true "Output")
+   
    
