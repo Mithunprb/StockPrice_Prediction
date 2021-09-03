@@ -1,6 +1,6 @@
 # StockPrice_Prediction
 ### Machine learning 
-
+#### Supervised learning
 ## Reuirements
 
 **For** [regressionml.py](./regressionml.py)
