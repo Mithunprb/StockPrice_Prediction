@@ -1,5 +1,6 @@
 # Mean Shifting
 ### Machine learning 
+#### Unsupervised learning
 
 ## Reuirements
 
