@@ -30,5 +30,5 @@
      `<br><br>
    **Output :**<br>
    
-   ![Alt text](/stockPrediction.JPG?raw=true "Output")
+   ![Alt text]("")
    
