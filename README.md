@@ -24,7 +24,5 @@
      pip install -U scikit-learn
      `
      
-   **Output :**<br>
-   
-   ![Alt text]("")
+
    
