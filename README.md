@@ -4,7 +4,7 @@
 #### K neareast neighbour
 ## Reuirements
 
-**For** [knnusingscikitlearn.py](./knnusingscikitlearn.ibpy)
+**For** [knnusingsklearn.ibyn](./knnusingsklearn.ibyn)
   * Python3.x or greater
   * Using pip
     * Install numpy <br>
