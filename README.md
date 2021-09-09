@@ -4,7 +4,7 @@
 #### K neareast neighbour
 ## Reuirements
 
-**For** [regressionml.py](./regressionml.py)
+**For** [knnusingscikitlearn.py](./knnusingscikitlearn.ibpy)
   * Python3.x or greater
   * Using pip
     * Install numpy <br>
