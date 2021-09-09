@@ -1,9 +1,10 @@
 # StockPrice_Prediction
 ### Machine learning 
 #### Supervised learning
+#### K neareast neighbour
 ## Reuirements
 
-**For** [regressionml.py](./regressionml.py)
+**For** [knnusingsklearn.ipynb](./knnusingsklearn.ipynb)
   * Python3.x or greater
   * Using pip
     * Install numpy <br>
@@ -22,13 +23,6 @@
      `
      pip install -U scikit-learn
      `
-     * Install pickle
-     There is no need to install pickle as it's already within Python 3.9. Just needed to import pickle. <br>
-     For others : <br>
-     `
-     pip install pickle4
-     `<br><br>
-   **Output :**<br>
-   
-   ![Alt text](/stockPrediction.JPG?raw=true "Output")
+     
+
    
